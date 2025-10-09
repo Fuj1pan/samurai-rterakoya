@@ -1,6 +1,5 @@
 #top {
-margin-top: 20px;
-margin-bottom: 20px;
+margin: 20px auto;
 width: 800px;
 background-color: #dcc9f4;
 text-align:center;
@@ -13,8 +12,7 @@ background-color: #ffd9df;
 
 #middle {
 position: relative;
-margin-top: 20px;
-margin-bottom: 20px;
+margin: 20px auto;
 width: 800px;
 height: 800px;
 background-color: #ffd9df
@@ -47,20 +45,24 @@ background-color: #87ceeb;
 #bottom {
 width: 800px;
 height: 300px;
-
+margin:20px auto;
 background-color: #87ceeb;
 }
+
 #bottom-child01 {
 width: 400px;
 height: 100px;
 background-color: #e5dcf0;
+
 }
+
 #bottom-child02 {
 position: relative;
 left: 200px;
 width: 400px;
 height: 100px;
 background-color: #e5dcf0;
+
 }
 #bottom-child03 {
 position: relative;
