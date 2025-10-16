@@ -62,17 +62,8 @@ color: rgb(239, 111, 139);
     font-weight: bold;
 }
 
-images/rainy.png {
-margin: 10px 0px;
-width: 70%;
-}
-images/cloudy.png {
-margin: 10px 0px;
-width: 70%;
-}
-images/sunny.png {
-margin: 10px 0px;
-width: 70%;
+.contents img {
+   width : 100%;
 }
 
 footer {
